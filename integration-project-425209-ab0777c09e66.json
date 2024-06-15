@@ -1,13 +1,13 @@
 {
-  "type": "service_account",
-  "project_id": "integration-project-425209",
-  "private_key_id": "ab0777c09e66f3797aeee64e741911cac656b919",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC88EvJX8UeWgZm\nOM2Z3AVvgZiJsn53ZJr3qtW4kjr3H2toOuw6GSY2XZt/5WYDQ9W7zL7Zs65JsU66\nEj/12r1T9t/G3mtHzIaU7jmWZ4a+CspYiiFeO9anUGSshjfYMH86+lkQdmo1cizB\ndTMw5QK/F0LfSP6frZ71a618dLCeYlKk11sjEpsPvwqZOfaEJqlBHFEShTu4njwt\nmVku2noYVhN9jlKo/rAknHaUI91QQ3VwAdI+G3VXnOVT9ICqPRfEyyymBzvCW8IR\nK1UaEsgby6I4hpEmCoQ41lUqMBx2SYvEJu+ApzfqeuGz3eHd8fcjh8KsgIGUul62\nMbKdaVkbAgMBAAECggEARaT38qdENF9v229VzkCtmkA1l5A9kMn7W47T0ADLDnu8\n7kNF/1Z04PZZUuge1dZD60FaGkpi1NQwVmNSw0/ZmSE3tIkZF3K7KxuzC49muhel\nJcTo7uD0y2DVc0jYPe8Gfxl4Chr0JHZNLBSFBaFtBT5QTpkMDpUDsqh53xXuYrrt\nJJQ0om33IHPm3NaRJZge8N4wKy/dDgl8Z/DRn4WOhFf5+lyRjFPfjGX79Wc7TVKf\nFH1f5ZrHfr52xWOgwsDZaDUroKw516wCWpncS65s29NZi99Zd0iFYlF0t66/zSNk\nMdfUVK+RrsGoYg79Ldn2WZWaoTNOfNwPcPQgPVDmSQKBgQD48SwPWQujc0fgN/e4\noRV0uhBu8ZCwanZIY6rB0i4vvSsa0EAs2jGrE2QpCXJU20BBTw5kiJLxiqq6YEzM\nsYUsNjV2Nw8VtXMB/NnPkI1UNcp7BvkbBknmabSZrEkH0JC8gZ6v3TnipY02JHxU\n5lRzjWP0ajmUWB5clL1dihWQmQKBgQDCS54ZsfRtTb/wHUjFDTQuPP4LB5c30SF6\nYjXUaemGiG78UZz4VNQslhuFyuDUxDHtaFrTbQKOOPvsGg9k7yXn7qGKb5XkVrg/\nO6soktAI7FLPgreQxOM0JD/i2RoS/XbL7g6XfmFvFJSp1091durCdW6takmEBX5G\nYEHvh3hj0wKBgBJW0gQfbzgPWhAuj1VOqKH8wxEpQpt8fFJA5Wd58GUb7nz/Mnsb\nZ+VOfGZ5h66wqD8nb8wAM7MPoBwy0/WQblsfczjOPZI/18Uht3oPEBpQDCacEOXo\nxLDwwJlBk++7ca4xbltOVOFZiNmgPniSr04D8IUk/jDrfPEdFAY8EfKhAoGBAJoY\n8zmZ5CxUv+gmsbJneH07rpj82jhQy2aPQfZIUgh7aNsBt6dVUDpUi1ufvpXBTX/n\nhjGtgZtfIp7tRExfSAcdQk3TlmRVSygLoQI6/ng1RrCCEijlnvWZ0nmOipmJIZE4\nK6aHe6tn/Uh/Fewp9qNoE/HCHLBy0uXqLiFVpmw1AoGADzDt7DMHrNl8zK0HE/80\nb82Cko7C3VZMcsoeIN2tzRqF1EGRANq4a31xhNvPtmsK8FzBImW/nlTeiAmE9hgo\nEF1TwjfGsVllsEXCWH6w6WwNF2JNaGDXC5f49353kOAOp66RkPfHJY1ELDuSustH\n8TDzL3P2k0Jaw9JplenENnc=\n-----END PRIVATE KEY-----\n",
-  "client_email": "putra-agung0304@integration-project-425209.iam.gserviceaccount.com",
-  "client_id": "117627021111084378576",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/putra-agung0304%40integration-project-425209.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  "type": "",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": "",
+  "universe_domain": ""
 }
